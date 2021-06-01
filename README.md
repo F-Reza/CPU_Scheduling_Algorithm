@@ -1,4 +1,5 @@
 # Shell program- CPU Scheduling Algorithms in Operating System.
+
 --------------------------------------------------------------
 1 First-Come First-Serve Scheduling, FCFS.  
 2 Shortest-Job-First Scheduling, SJF.  
