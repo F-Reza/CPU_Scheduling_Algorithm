@@ -15,3 +15,8 @@
 2 Shortest-Job-First Scheduling, SJF.   
 ->>snap sort: Input and Output    
 ![SJF-Screenshot from 2021-05-10](https://user-images.githubusercontent.com/75982069/120373681-71d16580-c33a-11eb-8201-b0214b346075.png)
+
+
+***Repository https://github.com/F-Reza/CPU_Scheduling_Algorithm/
+
+##############################################################
